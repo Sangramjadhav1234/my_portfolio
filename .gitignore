@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Django stuff
+db.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Static & media (if generated)
+staticfiles/
+media/
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
